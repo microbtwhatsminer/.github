@@ -141,3 +141,9 @@
 <div>
     <br>
 </div>
+<div style="text-align: center; margin: 20px;">
+    <!-- Banner with image and link -->
+    <a href="https://whatsminer-microbt.com/shop/" target="_blank">
+        <img src="https://whatsminer-microbt.com/wp-content/uploads/2023/10/cropped-whatsminer.png" alt="Whatsminer Black Friday Deals" style="width: 100%; max-width: 800px; height: auto; border: none;">
+    </a>
+</div>
